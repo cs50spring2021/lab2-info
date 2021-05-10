@@ -1,15 +1,8 @@
----
-layout: page
-title: Lab 2 - C programming
----
+# Lab 2 - C programming
 
 :point_right:
 Design, write, document, and test the following C programs.
 In each case you will need to write a testing script.
-
-* TOC
-{:toc}
-
 
 ***Point breakdown:***
 
